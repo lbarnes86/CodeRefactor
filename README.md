@@ -16,8 +16,7 @@ Complete Code Refactor assignment
 
 
 2.  Adjustments to tags in html and style.css. 
-    user can search the type of food they want
-
+   
 ```
 
 
