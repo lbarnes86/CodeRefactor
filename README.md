@@ -1,8 +1,8 @@
 # Code Refactor
 
-- Project Repository: 
+- Project Repository: https://github.com/lbarnes86/CodeRefactor
 
-- Project Deployment:  
+- Project Deployment: https://lbarnes86.github.io/CodeRefactor/ 
 
 
 #### Desciption/Objectives:
